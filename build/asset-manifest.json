@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30fe6fc0.css",
+    "main.js": "/static/js/main.94c29e5f.js",
+    "static/media/redCallButton.png": "/static/media/redCallButton.ac3fc6a992d411b83377.png",
+    "static/media/logo_istic.jpg": "/static/media/logo_istic.8fe6d75bc92126275fe8.jpg",
+    "static/media/logo_istic.png": "/static/media/logo_istic.9aff6f17476db954f4bc.png",
+    "static/media/user01.png": "/static/media/user01.2500a95cab9469906b8f.png",
+    "static/media/greenPhone.jpg": "/static/media/greenPhone.689d9583a5c755bca3ac.jpg",
+    "static/media/settings.png": "/static/media/settings.d2b779c9a3cc3f88f301.png",
+    "static/media/envelope.png": "/static/media/envelope.cb392634839fbe479f91.png",
+    "static/media/edit.png": "/static/media/edit.0f46e2728eb984e21ce8.png",
+    "index.html": "/index.html",
+    "main.30fe6fc0.css.map": "/static/css/main.30fe6fc0.css.map",
+    "main.94c29e5f.js.map": "/static/js/main.94c29e5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30fe6fc0.css",
+    "static/js/main.94c29e5f.js"
+  ]
+}
