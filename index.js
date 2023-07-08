@@ -80,7 +80,7 @@ app.get('/onlineUsers', (req, res) => {
 const PORT = process.env.PORT
 const CONNECTION = process.env.MONGODB_CONNECTION
 
-console.log(`port number :: ${PORT}`)
+console.log(`port num :: ${PORT}`)
 console.log(`Mongo Db connection string :: ${CONNECTION}`)
 
 mongoose
