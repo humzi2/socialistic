@@ -1,0 +1,25 @@
+[
+    {
+        "_id": "6479e62545f290c1a471f657",
+        "id": "nL9Xgh4Z7EVqXojtAA0L8tydE3A2",
+        "chatRoomKey": "152243861",
+        "partnerId": "goY8Tr57lze9qKyoWifcllps3EA3",
+        "name": "Partner Anonym",
+        "photo": "https://th.bing.com/th/id/R.8ecd3de4a4b57de791895330cf820509?rik=apELQREbj%2fT0oQ&riu=http%3a%2f%2fabdelzaher.cs.illinois.edu%2fimages%2fhead.png&ehk=woU2D0JqIZ5lRV4gZ9UAc69lYaKjywGalBytFcZMmyA%3d&risl=&pid=ImgRaw&r=0'",
+        "createdAt": "2023-06-02T12:52:53.216Z",
+        "updatedAt": "2023-06-02T12:52:53.216Z",
+        "__v": 0
+    },
+    {
+        "error": {
+            "index": 0,
+            "code": 11000,
+            "keyPattern": {
+                "partnerId": 1
+            },
+            "keyValue": {
+                "partnerId": "8uhYrorjkVNP1TvoAVnxXat8ag93"
+            }
+        }
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "profilePicture": "https://th.bing.com/th/id/R.8ecd3de4a4b57de791895330cf820509?rik=apELQREbj%2fT0oQ&riu=http%3a%2f%2fabdelzaher.cs.illinois.edu%2fimages%2fhead.png&ehk=woU2D0JqIZ5lRV4gZ9UAc69lYaKjywGalBytFcZMmyA%3d&risl=&pid=ImgRaw&r=0",
+    "_id": "6478b409a9629e00b484bc99",
+    "id": "goY8Tr57lze9qKyoWifcllps3EA3",
+    "username": "Partner Anonym",
+    "email": "partner@gmail.com",
+    "password": "Partner",
+    "isAdmin": false,
+    "followers": [],
+    "following": [
+        "nL9Xgh4Z7EVqXojtAA0L8tydE3A2"
+    ],
+    "createdAt": "2023-06-01T15:06:49.806Z",
+    "updatedAt": "2023-06-06T13:12:17.954Z",
+    "__v": 0
+}
+

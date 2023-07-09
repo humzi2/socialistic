@@ -1,0 +1,24 @@
+{
+    "_id": {
+        "_data": "82649639E4000000022B022C0100296E5A1004FA2667BAE9D94B88B7831BF6A24F0A3046645F696400646478B4CAA9629E00B484BCA00004"
+    },
+    "operationType": "update",
+    "clusterTime": {
+        "$timestamp": "7248044301714718722"
+    },
+    "wallTime": "2023-06-24T00:33:40.006Z",
+    "ns": {
+        "db": "test",
+        "coll": "users"
+    },
+    "documentKey": {
+        "_id": "6478b4caa9629e00b484bca0"
+    },
+    "updateDescription": {
+        "updatedFields": {
+            "updatedAt": "2023-06-24T00:33:39.971Z"
+        },
+        "removedFields": [],
+        "truncatedArrays": []
+    }
+}

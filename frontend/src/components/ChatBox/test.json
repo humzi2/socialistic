@@ -1,0 +1,102 @@
+{
+    "userInfo": {
+        "_id": "6478b4caa9629e00b484bca0",
+        "id": "nL9Xgh4Z7EVqXojtAA0L8tydE3A2",
+        "username": "Humza Ehmed",
+        "email": "social@gmail.com",
+        "password": "social",
+        "isAdmin": false,
+        "followers": [
+            "8uhYrorjkVNP1TvoAVnxXat8ag93",
+            "nJA3OqPX3bN5q6kSgLA5KJJdefk2",
+            "goY8Tr57lze9qKyoWifcllps3EA3"
+        ],
+        "following": [
+            "goY8Tr57lze9qKyoWifcllps3EA3",
+            "8uhYrorjkVNP1TvoAVnxXat8ag93"
+        ],
+        "createdAt": "2023-06-01T15:10:02.703Z",
+        "updatedAt": "2023-06-27T06:46:16.501Z",
+        "__v": 0,
+        "coverPicture": "https://wallpaperaccess.com/full/246820.jpg",
+        "about": "Welcome to my beautiful World",
+        "streamKey": "key",
+        "profilePicture": "https://firebasestorage.googleapis.com/v0/b/my-first-project-ce24e.appspot.com/o/users%2FnL9Xgh4Z7EVqXojtAA0L8tydE3A2%2Fcover?alt=media&token=0890d541-32db-49e8-93ae-3afc080d5a1f",
+        "online": false
+    },
+    "profileUser": {},
+    "chatHistory": [],
+    "selectedChatRoom": {
+        "key": "152243861",
+        "_id": "152243861",
+        "partner": {
+            "id": "goY8Tr57lze9qKyoWifcllps3EA3",
+            "name": "Partner Anonym",
+            "photo": "https://th.bing.com/th/id/R.8ecd3de4a4b57de791895330cf820509?rik=apELQREbj%2fT0oQ&riu=http%3a%2f%2fabdelzaher.cs.illinois.edu%2fimages%2fhead.png&ehk=woU2D0JqIZ5lRV4gZ9UAc69lYaKjywGalBytFcZMmyA%3d&risl=&pid=ImgRaw&r=0'"
+        }
+    },
+    "messages": [],
+    "online": true,
+    "onlineUsers": [
+        {
+            "_id": "6478b4caa9629e00b484bca0",
+            "id": "nL9Xgh4Z7EVqXojtAA0L8tydE3A2",
+            "username": "Humza Ehmed",
+            "email": "social@gmail.com",
+            "password": "social",
+            "isAdmin": false,
+            "followers": [
+                "8uhYrorjkVNP1TvoAVnxXat8ag93",
+                "nJA3OqPX3bN5q6kSgLA5KJJdefk2",
+                "goY8Tr57lze9qKyoWifcllps3EA3"
+            ],
+            "following": [
+                "goY8Tr57lze9qKyoWifcllps3EA3",
+                "8uhYrorjkVNP1TvoAVnxXat8ag93"
+            ],
+            "createdAt": "2023-06-01T15:10:02.703Z",
+            "updatedAt": "2023-06-27T06:50:54.956Z",
+            "__v": 0,
+            "coverPicture": "https://wallpaperaccess.com/full/246820.jpg",
+            "about": "Welcome to my beautiful World",
+            "streamKey": "key",
+            "profilePicture": "https://firebasestorage.googleapis.com/v0/b/my-first-project-ce24e.appspot.com/o/users%2FnL9Xgh4Z7EVqXojtAA0L8tydE3A2%2Fcover?alt=media&token=0890d541-32db-49e8-93ae-3afc080d5a1f",
+            "online": true
+        },
+        {
+            "_id": "6478b409a9629e00b484bc99",
+            "id": "goY8Tr57lze9qKyoWifcllps3EA3",
+            "username": "Partner Anonym",
+            "email": "partner@gmail.com",
+            "password": "Partner",
+            "isAdmin": false,
+            "followers": [
+                "8uhYrorjkVNP1TvoAVnxXat8ag93",
+                "nL9Xgh4Z7EVqXojtAA0L8tydE3A2"
+            ],
+            "following": [
+                "nL9Xgh4Z7EVqXojtAA0L8tydE3A2"
+            ],
+            "createdAt": "2023-06-01T15:06:49.806Z",
+            "updatedAt": "2023-06-27T06:51:12.424Z",
+            "__v": 0,
+            "coverPicture": "https://firebasestorage.googleapis.com/v0/b/my-first-project-ce24e.appspot.com/o/users%2FgoY8Tr57lze9qKyoWifcllps3EA3%2Fcover?alt=media&token=90f8fba5-6b80-4066-ba86-22de73c7cbda",
+            "about": "i am your partner bro",
+            "profilePicture": "https://firebasestorage.googleapis.com/v0/b/my-first-project-ce24e.appspot.com/o/users%2FgoY8Tr57lze9qKyoWifcllps3EA3%2Fcover?alt=media&token=fd270940-1f44-48a1-b2e1-7cd5374f3fe6",
+            "streamingKey": "123",
+            "online": true
+        }
+    ],
+    "postsForPage": "home",
+    "myPostsCount": 5,
+    "postsByFollowedCount": 3,
+    "updatePostsByFollowed": false,
+    "chat": true,
+    "call": false,
+    "callType": "recieving",
+    "buttonsClicked": false,
+    "listenToMongo": false,
+    "listening": false,
+    "abortedByPartner": false,
+    "chosenChat": false
+}

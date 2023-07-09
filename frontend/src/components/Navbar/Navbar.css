@@ -1,0 +1,21 @@
+.logoSpan {
+    font-weight: 700;
+    font-size: 24px;
+    color: var(--green);
+    margin-left: 4px;
+  }
+
+.NavbarContainer{
+   padding-left: 40px;
+   padding-right: 40px;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    --bs-gutter-x: 0rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}

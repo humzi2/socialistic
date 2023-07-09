@@ -1,0 +1,100 @@
+.LogoSearch {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  align-self: flex-start;
+  margin-bottom: 0px;
+}
+
+.Logo-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2rem;
+  align-self: flex-start;
+  cursor: pointer;
+  margin-left: 10px;
+  padding: 5px
+}
+
+.Logo-header span {
+  font-weight: 700;
+  font-size: 30px;
+  color: var(--green);
+}
+
+.LogoSearch img {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 3px solid #f4cb35;
+  padding: 3px;
+}
+
+.Search {
+  display: flex;
+  background-color: var(--inputColor);
+  border-radius: 8px;
+  width: 96%;
+  border: 1px solid #f4cb35;
+  margin-left: 10px;
+  padding: 10px;
+}
+
+.Search>input {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  width: 125%;
+}
+
+.s-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(106.23deg, #f99827 0%, #f4cb35 100%);
+  border-radius: 5px;
+  padding: 3px;
+  color: white;
+  cursor: pointer
+}
+
+.dataResult {
+  display: flex;
+  display: inline-block;
+}
+
+.search-global {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.searchResultsWrap {
+  width: 96%;
+  padding:15px;
+  border: solid 1px lightgray;
+  margin-left: 10px;
+  box-shadow: 0px 0px 8px 1px gray;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.searchResultsItem {
+  font: 20px times new roman;
+  width:100%;
+  height:50px;
+  border:solid 1px lightgray;
+  margin-bottom: 10px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  cursor: pointer;
+
+}
