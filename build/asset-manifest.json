@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b4cd3263.css",
-    "main.js": "/static/js/main.8a6092c2.js",
+    "main.js": "/static/js/main.eff335d8.js",
     "static/media/redCallButton.png": "/static/media/redCallButton.ac3fc6a992d411b83377.png",
     "static/media/logo_istic.jpg": "/static/media/logo_istic.8fe6d75bc92126275fe8.jpg",
     "static/media/logo_istic.png": "/static/media/logo_istic.9aff6f17476db954f4bc.png",
@@ -12,10 +12,10 @@
     "static/media/edit.png": "/static/media/edit.0f46e2728eb984e21ce8.png",
     "index.html": "/index.html",
     "main.b4cd3263.css.map": "/static/css/main.b4cd3263.css.map",
-    "main.8a6092c2.js.map": "/static/js/main.8a6092c2.js.map"
+    "main.eff335d8.js.map": "/static/js/main.eff335d8.js.map"
   },
   "entrypoints": [
     "static/css/main.b4cd3263.css",
-    "static/js/main.8a6092c2.js"
+    "static/js/main.eff335d8.js"
   ]
 }

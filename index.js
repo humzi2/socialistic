@@ -23,10 +23,10 @@ const app = express()
 const httpServer = createServer(app)
 const io = new Server(httpServer, { cors: { origin: '*' }, connectTimeout: 60000, pingTimeout: 60000, upgradeTimeout: 60000, transports: ['websocket'] })
 
-app.use(cors())
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: true }))
 app.use(bodyParser.json())
+app.use(cors())
 
 app.use(express.static(__dirname + '/build'))
 
